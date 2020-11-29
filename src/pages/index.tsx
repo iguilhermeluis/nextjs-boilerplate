@@ -6,7 +6,7 @@ type Props = {
 
 const name = 'gui'
 
-export default function Home                  ({ title = 'React Avançado!' }: Props) {
+export default function Home({ title = 'React Avançado!' }: Props) {
   return (
     <div>
       <Head>
