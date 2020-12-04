@@ -10,10 +10,6 @@
   <a href="https://codeclimate.com/github/iguilhermeluis/nextjs-boilerplate/maintainability"><img src="https://api.codeclimate.com/v1/badges/92514526114071e4d945/maintainability" /></a>
   <!-- TestCoverage -->
   <a href="https://codeclimate.com/github/iguilhermeluis/nextjs-boilerplate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/92514526114071e4d945/test_coverage" /></a>
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/pankod/next-boilerplate">
-    <img src="https://travis-ci.org/pankod/next-boilerplate.svg?branch=master" alt="Build Status" />
-  </a>
 </div>
 
 
