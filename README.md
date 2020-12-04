@@ -1,4 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+<img src="banner.png" alt="Performance oriented Next.js application boilerplate with Redux, Typescript, Express.js and Sass." align="center" />
+
+<br/>
+<div align="center" >Performance oriented Next.js application boilerplate with Typescript, Styled Components, Jest, Git Hook Husky, Storybook and PWA.</div>
+<br/>
+
+<div align="center">
+  <!-- CodeClimate -->
+  <a href="https://codeclimate.com/github/iguilhermeluis/nextjs-boilerplate/maintainability"><img src="https://api.codeclimate.com/v1/badges/92514526114071e4d945/maintainability" /></a>
+  <!-- TestCoverage -->
+  <a href="https://codeclimate.com/github/iguilhermeluis/nextjs-boilerplate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/92514526114071e4d945/test_coverage" /></a>
+  <!-- Build Status -->
+  <a href="https://travis-ci.org/pankod/next-boilerplate">
+    <img src="https://travis-ci.org/pankod/next-boilerplate.svg?branch=master" alt="Build Status" />
+  </a>
+</div>
+
+
+<br/>
+<div align="center">
+  <sub>Created by <a href="https://www.guilhermeluis.com">Guilherme Luis Faustino</a></sub>
+</div>
+
+
+## What is inside?
+
+This project uses lot of stuff as:
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- [Storybook](https://storybook.js.org/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://github.com/typicode/husky)
 
 ## Getting Started
 
@@ -13,6 +50,17 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+## Commands
+
+- `dev`: runs your application on `localhost:3000`
+- `build`: creates the production build version
+- `start`: starts a simple server with the build production code
+- `lint`: runs the linter in all components and pages
+- `test`: runs jest to test all components and pages
+- `test:watch`: runs jest in watch mode
+- `storybook`: runs storybook on `localhost:6006`
+- `build-storybook`: create the build version of storybook
 
 ## Learn More
 
